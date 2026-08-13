@@ -532,7 +532,7 @@ body {
     border-bottom: 2px solid #888;
     padding: 5px 10px;
     margin-bottom: 10px;
-    min-height: 125px;
+    min-height: 130px;
 }
 
 #captureTarget .info-content {
@@ -564,7 +564,7 @@ body {
 
 #captureTarget .contact-text-inline {
     white-space: nowrap;
-    font-size: 19px;
+    font-size: 17px;
     font-style: italic;
     font-weight: 700;
 }
@@ -578,8 +578,8 @@ body {
 }
 
 #captureTarget .info-icon {
-    width: 120px;
-    height: 120px;
+    width: 110px;
+    height: 110px;
     border: 2px solid #5c1818;
     padding: 2px;
     background: #000000;
