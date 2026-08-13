@@ -629,7 +629,7 @@ function renderCaptureHTML(data) {
             </div>
             <div class="info-right-block">
                 <div class="contact-text-inline">
-                    <span class="contact-name">Dịch Hoàng:</span> <span class="contact-zalo">0327308506 (ZALO)</span>
+                    <span class="contact-name">Dịch Hoàng:</span> <span class="contact-zalo">0327.308.506 (ZALO)</span>
                 </div>
                 <div class="info-icon">
                     <img src="dauan.jpg" alt="Dấu ấn">
