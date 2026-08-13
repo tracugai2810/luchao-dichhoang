@@ -703,9 +703,7 @@ function renderCaptureHTML(data) {
                         return `<div class="ss-item">${s}</div>`;
                     }).join('');
                 })()}
-                <div class="contact-info" style="grid-column: 3 / 5; text-align: center; align-self: end; padding-bottom: 5px; font-size: 17px; color: #1a1a1a; font-weight: 700; font-style: italic;">
-                    <span style="color: #c62741;">Dịch Hoàng</span> 0327308506 (ZALO)
-                </div>
+
             </div>
         </div>
     `;
