@@ -556,18 +556,20 @@ body {
 
 #captureTarget .info-right-block {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
     margin-left: 15px;
     align-self: center;
     flex-shrink: 0;
 }
 
 #captureTarget .contact-text-inline {
-    font-size: 16px;
+    font-size: 17px;
     font-style: italic;
     font-weight: 700;
-    text-align: right;
+    text-align: center;
+    white-space: nowrap;
 }
 
 #captureTarget .contact-text-inline .contact-name {
@@ -580,8 +582,8 @@ body {
 }
 
 #captureTarget .info-icon {
-    width: 100px;
-    height: 100px;
+    width: 115px;
+    height: 115px;
     border: 2px solid #5c1818;
     padding: 2px;
     background: #000000;
