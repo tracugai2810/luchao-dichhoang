@@ -564,7 +564,7 @@ body {
 }
 
 #captureTarget .contact-text-inline {
-    font-size: 16px;
+    font-size: 17px;
     font-style: italic;
     font-weight: 700;
     text-align: right;
@@ -580,8 +580,8 @@ body {
 }
 
 #captureTarget .info-icon {
-    width: 100px;
-    height: 100px;
+    width: 101px;
+    height: 101px;
     border: 2px solid #5c1818;
     padding: 2px;
     background: #000000;
