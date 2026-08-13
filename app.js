@@ -627,12 +627,13 @@ function renderCaptureHTML(data) {
                 <div class="info-line"><strong>Tiết khí:</strong> ${dateInfo.tietKhi} &nbsp;&nbsp;&nbsp;&nbsp; <strong>Tuần Không:</strong> <span class="highlight">${dateInfo.tuanKhong}</span></div>
                 <div class="info-line"><strong>Nhật Thần:</strong> <span class="highlight">${dateInfo.nhatThan}</span> &nbsp;&nbsp;&nbsp;&nbsp; <strong>Nguyệt Lệnh:</strong> <span class="highlight">${dateInfo.nguyetLenh}</span></div>
             </div>
-            <div class="info-name-contact">
-                <div class="contact-name">Dịch Hoàng:</div>
-                <div class="contact-zalo">0327308506 (ZALO)</div>
-            </div>
-            <div class="info-icon">
-                <img src="dauan.jpg" alt="Dấu ấn">
+            <div class="info-right-block">
+                <div class="contact-text-inline">
+                    <span class="contact-name">Dịch Hoàng:</span> <span class="contact-zalo">0327308506 (ZALO)</span>
+                </div>
+                <div class="info-icon">
+                    <img src="dauan.jpg" alt="Dấu ấn">
+                </div>
             </div>
         </div>
         
